@@ -37,7 +37,8 @@
 
 ## Библиотеки:
 
-> Составляется список.
+* [RtcDS1302.h](https://github.com/Treboada/Ds1302) - Для модуля RTC DS1302.
+* [LiquidCrystal_I2C.h](https://gitlab.com/tandembyte/LCD_I2C) - Для экрана 16x2 I2C.
 
 ## Перед прошивкой:
 
